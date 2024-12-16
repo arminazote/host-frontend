@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-custom {
+  background-color: #ffd700;
+  color: black;
+}

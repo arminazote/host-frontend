@@ -1,0 +1,98 @@
+export const easyGaming = [
+  {
+    name: "Witch's Love",
+    gameid: "730934d13092e3f9e7c23f2a774e663a",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Witchs-Love.png",
+  },
+  {
+    name: "Neko Maid",
+    gameid: "177977776019fe295e1fa61383400b92",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Neko-Maid.png",
+  },
+  {
+    name: "Adventure Of Sinbad",
+    gameid: "4349ce1ba0fc4c1c794a11d18d7ba94b",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Adventure-Of-Sinbad.png",
+  },
+  {
+    name: "G-idol",
+    gameid: "c86ff6fdb3e91db1b7d110d58a778a74",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/G-idol.png",
+  },
+  {
+    name: "Goal Line Baby",
+    gameid: "364805284c56dc5888fd21e73be3dda2",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Goal-Line-Baby.png",
+  },
+  {
+    name: "Miss Holmes: Cold Case",
+    gameid: "045efa0ecf10c2d171f93db6c1e2e75c",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Miss-Holmes-Cold-Case.png",
+  },
+  {
+    name: "Kitsune Sister",
+    gameid: "70c6ce3e01e79c019a9bd68522826993",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Kitsune-Sister.png",
+  },
+  {
+    name: "Queen Of Casino",
+    gameid: "b84161166710f1ab3223421c92b406cb",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Queen-Of-Casino.png",
+  },
+  {
+    name: "Streaming Girl",
+    gameid: "bf89fbb9dbef22224b3da74f6654e1a5",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Streaming-Girl.png",
+  },
+  {
+    name: "Dim Sum Hottie",
+    gameid: "920fe25ea07729a287c668216bdfc256",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Dim-Sum-Hottie.png",
+  },
+  {
+    name: "Goddess Wonderland",
+    gameid: "9d18644a1c6951932f0b7ced77ff0f49",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Goddess-Wonderland.png",
+  },
+  {
+    name: "Napoleon",
+    gameid: "422b086bd63d28be3e812dbb7736b9b8",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Napoleon.png",
+  },
+  {
+    name: "Tron: Century",
+    gameid: "35c52efe2c5618e5bc3bdf47d5da1dd2",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Tron-Century.png",
+  },
+  {
+    name: "Glory of Poseidon",
+    gameid: "357e66a063eb207b7d5d9b841b313801",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Glory-of-Poseidon.png",
+  },
+  {
+    name: "Beauty SPA",
+    gameid: "4f000007fa6a15bfe51d1ce1766e57b7",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Beauty-SPA.png",
+  },
+  {
+    name: "Bikini Revelry",
+    gameid: "66c29ee5ba8641cd859a8f139142402e",
+    type: "Slot Game",
+    icon: "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/eg46/Bikini-Revelry.png",
+  },
+];
